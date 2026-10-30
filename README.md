@@ -29,7 +29,7 @@ A self-hosted AI platform for your own GPU servers, covering model discovery, ca
 - 📄 **First-author research paper:** [A Sequential Game Framework for Target Tracking](https://doi.org/10.1109/ACCESS.2024.3515657), *IEEE Access*, 2024. A game-theoretic tracking algorithm developed with Australia's Defence Science and Technology Group that beats standard methods.
 - 🏆 **Award-winning AI reporting tool** built at the Australian Digital Health Agency, recognised with a government award.
 - 🎓 **Master of Complex Systems**, University of Sydney.
-- 👩‍🏫 **Lecturer**, Master of Business Analytics, Kaplan Business School.
+- 🧑‍🏫 **Lecturer**, Master of Business Analytics, Kaplan Business School.
 
 ### Background
 
