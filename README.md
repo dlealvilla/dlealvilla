@@ -15,7 +15,7 @@ A kid-friendly AI that answers their endless questions out loud, in words that f
 **[WildMind AI Education](https://github.com/dlealvilla/lms_ai)**: *students use AI on assessments where no one can see it*
 A learning platform that brings AI inside the assignment. Copy and paste is blocked, the AI tutor is built into the writing, and every AI insertion is tracked, so teachers can weigh AI use against real knowledge and reward both kinds of learning.
 
-**[AI Stack](https://github.com/dlealvilla/ai-stack)**: *companies can't send sensitive data to cloud AI*
+**[Local AI Stack](https://github.com/dlealvilla/ai-stack)**: *companies can't send sensitive data to cloud AI*
 A self-hosted AI platform for your own GPU servers, covering model discovery, capacity planning, fast local inference, a secure gateway, and admin and workspace interfaces, so private data never leaves the building.
 
 ### Founder of Ankla
