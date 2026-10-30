@@ -12,7 +12,7 @@ Based on the Gold Coast, Australia.
 A kid-friendly AI that answers their endless questions out loud, in words that fit their age, with pictures that help it click. Parents stay in charge of profiles and screen time.
 ▶ Try it at **[askwuai.com](https://askwuai.com)**
 
-**[WildMind AI for Education](https://github.com/dlealvilla/ai-for-education)**: *students use AI on assessments where no one can see it*
+**[WildMind AI for Education](https://github.com/dlealvilla/wildmind-ai-for-education)**: *students use AI on assessments where no one can see it*
 A learning platform that brings AI inside the assignment. Copy and paste is blocked, the AI tutor is built into the writing, and every AI insertion is tracked, so teachers can weigh AI use against real knowledge and reward both kinds of learning.
 
 **[Local AI Stack](https://github.com/dlealvilla/local-ai-stack)**: *companies can't send sensitive data to cloud AI*
