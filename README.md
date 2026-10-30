@@ -1,29 +1,31 @@
-### Hi, I'm Daniel
+### Hi, I'm Daniel 👋
 
-Founder of **Ankla** — GitHub for company knowledge, so business AI gets the right knowledge, and only that.
-
-AI fails when it lacks context. Companies cannot dump everything into a model: IP, customer data, and strategy have to stay protected. Ankla is the knowledge layer that gives AI only approved company knowledge and keeps answers aligned with how the organisation actually works.
+**AI builder.** I make AI people can actually trust in the real world: AI that runs on your own hardware, AI that's out in the open in the classroom, and AI that gets the right knowledge, and only that.
 
 Based in Brisbane, Australia.
 
+### What I build
+
+**[Ask Wuai](https://github.com/dlealvilla/askwuai)**: *kids never stop asking "but why?"*
+A kid-friendly AI that answers their endless questions out loud, in words that fit their age, with pictures that help it click. Parents stay in charge of profiles and screen time.
+▶ Try it at **[askwuai.com](https://askwuai.com)**
+
+**[WildMind AI Education](https://github.com/dlealvilla/lms_ai)**: *students use AI on assessments where no one can see it*
+A learning platform that brings AI inside the assignment. Copy and paste is blocked, the AI tutor is built into the writing, and every AI insertion is tracked, so teachers can weigh AI use against real knowledge and reward both kinds of learning.
+
+**[AI Stack](https://github.com/dlealvilla/ai-stack)**: *companies can't send sensitive data to cloud AI*
+A self-hosted AI platform for your own GPU servers, covering model discovery, capacity planning, fast local inference, a secure gateway, and admin and workspace interfaces, so private data never leaves the building.
+
+### Founder of Ankla
+
+**Ankla is GitHub for company knowledge, so business AI gets the right knowledge, and only that.** Companies can't hand AI their IP, customer data or strategy, so Ankla gives AI approved knowledge that stays aligned with how the business actually works.
+▶ [Website](https://azmapu-web-dev.up.railway.app) · [Live demo](https://azmapu-web-dev.up.railway.app/demo)
+*(Ankla's code is private.)*
+
 ### Background
 
-- Data consulting (including NSW Government) and work with Defence  
-- Startup building a local AI inference stack (WildMind, later Rukan) focused on AI data privacy through locally run models  
-- Australian Digital Health Agency  
-
-### Projects
-
-- **Ankla** — Company knowledge platform for governed, AI-ready organisational knowledge (private, in progress)
-- **[askwuai](https://github.com/dlealvilla/askwuai)** — Wuai, a kid-friendly AI that answers anything, with voice. Live at [askwuai.com](https://askwuai.com)
-- **[lms_ai](https://github.com/dlealvilla/lms_ai)** — AI-assisted LMS (Wildmind Education): courses and assessments with a rich-text editor, Gemini writing assistant, teacher marking, and tracking of AI insertions
-- **[ai-stack](https://github.com/dlealvilla/ai-stack)** — Self-hosted enterprise AI deployment: model discovery, capacity planning, inference, gateway and control plane on your own GPU host
-- **[local-ai-stack](https://github.com/dlealvilla/local-ai-stack)** — Design and planning for a self-hosted Company Brain (governed knowledge + self-hosted AI runtime)
+Data consulting (including NSW Government), Defence, and the Australian Digital Health Agency, then building local-inference AI startups before founding Ankla.
 
 ### Stack
 
-TypeScript · React · Python · PostgreSQL · Prisma · Vite · Vercel · Gemini · vLLM / local inference tooling · Docker
-
-### Links
-
-- GitHub: [dlealvilla](https://github.com/dlealvilla)
+TypeScript · React · Python · PostgreSQL · Prisma · Vite · Vercel · Gemini · vLLM · Docker
